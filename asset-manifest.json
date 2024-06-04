@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sahil3662/Food_Ordering_App/static/css/main.8daaeb28.css",
+    "main.js": "/Sahil3662/Food_Ordering_App/static/js/main.96da9054.js",
+    "static/js/592.7f72a991.chunk.js": "/Sahil3662/Food_Ordering_App/static/js/592.7f72a991.chunk.js",
+    "index.html": "/Sahil3662/Food_Ordering_App/index.html",
+    "main.8daaeb28.css.map": "/Sahil3662/Food_Ordering_App/static/css/main.8daaeb28.css.map",
+    "main.96da9054.js.map": "/Sahil3662/Food_Ordering_App/static/js/main.96da9054.js.map",
+    "592.7f72a991.chunk.js.map": "/Sahil3662/Food_Ordering_App/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8daaeb28.css",
+    "static/js/main.96da9054.js"
+  ]
+}
